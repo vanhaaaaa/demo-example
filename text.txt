@@ -1,0 +1,4 @@
+1/ - git branch <name> : tạo nhánh mới từ nhánh master
+    - git checkout <name> : chuyển sang nhánh
+
+2/
